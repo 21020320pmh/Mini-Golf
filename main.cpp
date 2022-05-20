@@ -76,7 +76,8 @@ std::vector<Tile> loadTiles(int level)
 		break;
 		case 3:
 			temp.push_back(Tile(Vector2f(32*1, 32*6), tileDarkTexture32));
-			temp.push_back(Tile(Vector2f(64*2, 64*3), tileDarkTexture64));
+			temp.push_back(Tile(Vector2f(32*4, 32*6), tileDarkTexture32));
+			temp.push_back(Tile(Vector2f(32*5, 32*6), tileDarkTexture32));
 			temp.push_back(Tile(Vector2f(64*3, 64*3), tileDarkTexture64));
 			temp.push_back(Tile(Vector2f(64*4, 64*3), tileDarkTexture64));
 		break;
