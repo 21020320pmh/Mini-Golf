@@ -36,7 +36,7 @@
 # 5.Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 
 ## Kết luận
-
+  - Vẫn chưa chia file 1 cách triệt để.
   - Tìm hiểu và tiếp thu kiến thức về SDL2 tại: lazyfoo.net/tutorials/SDL/
   - Cơ chế hoạt động và logic game, hình ảnh tham khảo từ: https://github.com/PolyMarsDev/Twini-
 ## Hướng phát triển
@@ -46,6 +46,8 @@
   - Mở rộng thêm các level.
  ## Điều rút ra sau khi làm game
  
+  - Biết cách sử dụng các kĩ năng để áp dụng làm 1 game.
+  - Tự suy nghĩ và thiết kế màn chơi.
   - Hiểu thêm cách làm 1 game đơn giản.
   - Biết thêm về thư viện SDL2 và cách code cũng như clean code.
-  - Vẫn chưa chia file 1 cách triệt để.
+ 
