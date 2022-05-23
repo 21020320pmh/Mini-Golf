@@ -37,7 +37,7 @@
 
 ## Kết luận
   - Vẫn chưa chia file 1 cách triệt để.
-  - Tìm hiểu và tiếp thu kiến thức về SDL2 tại: lazyfoo.net/tutorials/SDL/
+  - Tìm hiểu và tiếp thu kiến thức về SDL2 tại: https://lazyfoo.net/tutorials/SDL/
   - Cơ chế hoạt động và logic game, hình ảnh tham khảo từ: https://github.com/PolyMarsDev/Twini-
 ## Hướng phát triển
 
